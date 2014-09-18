@@ -12,7 +12,7 @@ For example, if your leader is `\`, then `\'`, will change:
 If you do not like the default key mapping of this plugin, uninstall this plugin and put... 
 
 ```
-[Desired key mapping here] :s/['"]/\="'\""[submatch(0)!='"']/g<CR>'"]']"']]
+noremap [Desired key mapping here] :s/['"]/\="'\""[submatch(0)!='"']/g<CR>'"]']"']]
 ```
 
 ...into your `.vimrc`
