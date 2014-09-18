@@ -1,7 +1,8 @@
-*swapquote.vim* Minimalist plugin for swapping quotes
+## swapquote.vim
+Minimalist plugin for swapping quotes
 
-*Author:* Peter Hurford
-*Licence:* Same terms as Vim itself (see |licence|)
+**Author:** Peter Hurford
+**Licence:** Same terms as Vim itself (see |licence|)
 
 Swap all ' with " and all " with ' on the current line with <Leader>'
 
