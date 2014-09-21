@@ -17,6 +17,16 @@ noremap [Desired key mapping here] :s/['"]/\="'\""[submatch(0)!='"']/g<CR>
 
 ...into your `.vimrc`
 
+
+## Installation
+
+You can install this plugin using [pathogen.vim](https://github.com/tpope/vim-pathogen) with the following commands:
+
+```
+cd ~/.vim/bundle
+git clone https://github.com/peterhurford/swapquote.vim
+```
+
 -
 
 *Take that, surround.vim*
