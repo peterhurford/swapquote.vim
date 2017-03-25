@@ -7,7 +7,7 @@ For example, if your leader is `\`, then `\'`, will change:
 
 `"#{variable}"` ... becomes ... `'#{variable}'`
 
--
+--
 
 If you do not like the default key mapping of this plugin, uninstall this plugin and put... 
 
@@ -27,6 +27,6 @@ cd ~/.vim/bundle
 git clone https://github.com/peterhurford/swapquote.vim
 ```
 
--
+--
 
 *Take that, surround.vim*
